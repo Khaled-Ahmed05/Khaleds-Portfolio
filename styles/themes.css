@@ -1,0 +1,86 @@
+/* ============================================
+   THEME TOKENS — Light & Dark Mode
+   ============================================ */
+
+:root,
+[data-theme="light"] {
+  /* Backgrounds */
+  --bg-primary: #FAFAFA;
+  --bg-secondary: #FFFFFF;
+  --bg-tertiary: #F1F5F9;
+  --bg-nav: rgba(250, 250, 250, 0.85);
+
+  /* Text */
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
+  --text-muted: #94A3B8;
+
+  /* Accent */
+  --accent: #2563EB;
+  --accent-hover: #1D4ED8;
+  --accent-light: #DBEAFE;
+  --accent-glow: rgba(37, 99, 235, 0.15);
+
+  /* Borders & Surfaces */
+  --border: #E2E8F0;
+  --border-hover: #CBD5E1;
+  --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
+  --card-shadow-hover: 0 10px 25px rgba(0, 0, 0, 0.08), 0 4px 10px rgba(0, 0, 0, 0.04);
+  --nav-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+
+  /* Misc */
+  --overlay: rgba(0, 0, 0, 0.5);
+  --code-bg: #F1F5F9;
+  --tag-bg: #F1F5F9;
+  --tag-text: #475569;
+  --scrollbar-track: #F1F5F9;
+  --scrollbar-thumb: #CBD5E1;
+  --hero-gradient: linear-gradient(135deg, #FAFAFA 0%, #F1F5F9 100%);
+  --section-alt: #F8FAFC;
+  --input-bg: #FFFFFF;
+  --input-border: #E2E8F0;
+  --input-focus: #2563EB;
+  --timeline-line: #E2E8F0;
+  --timeline-dot: #2563EB;
+}
+
+[data-theme="dark"] {
+  /* Backgrounds */
+  --bg-primary: #0F172A;
+  --bg-secondary: #1E293B;
+  --bg-tertiary: #1A2332;
+  --bg-nav: rgba(15, 23, 42, 0.9);
+
+  /* Text */
+  --text-primary: #F8FAFC;
+  --text-secondary: #CBD5E1;
+  --text-muted: #64748B;
+
+  /* Accent */
+  --accent: #3B82F6;
+  --accent-hover: #60A5FA;
+  --accent-light: #1E3A5F;
+  --accent-glow: rgba(59, 130, 246, 0.2);
+
+  /* Borders & Surfaces */
+  --border: #1E293B;
+  --border-hover: #334155;
+  --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 1px 2px rgba(0, 0, 0, 0.15);
+  --card-shadow-hover: 0 10px 25px rgba(0, 0, 0, 0.3), 0 4px 10px rgba(0, 0, 0, 0.2);
+  --nav-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+
+  /* Misc */
+  --overlay: rgba(0, 0, 0, 0.7);
+  --code-bg: #1A2332;
+  --tag-bg: #1A2332;
+  --tag-text: #CBD5E1;
+  --scrollbar-track: #1E293B;
+  --scrollbar-thumb: #334155;
+  --hero-gradient: linear-gradient(135deg, #0F172A 0%, #1A2332 100%);
+  --section-alt: #0D1526;
+  --input-bg: #1E293B;
+  --input-border: #334155;
+  --input-focus: #3B82F6;
+  --timeline-line: #334155;
+  --timeline-dot: #3B82F6;
+}

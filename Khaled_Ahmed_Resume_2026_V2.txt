@@ -1,0 +1,70 @@
+Khaled Ahmed Mohamed 
+Back-end developer & Software engineer 
+Cairo, Egypt
++20127784144
+testforkhaled@gmail.com
+Linkedin
+ Portfolio
+Professional Summary 
+Computer Science graduate and Software Engineer with experience building web applications using 
+PHP/Laravel, Node.js/Express, and Java/Spring Boot, C#/.Net. Strong backend foundation in RESTful 
+development, database design, authentication, and version control, with additional front-end knowledge in 
+HTML, CSS, JavaScript, and Bootstrap. Detail-oriented team player focused on scalable code, clean 
+architecture, and practical software delivery.
+Education 
+B.Sc. in Software Engineering 	 	 	 	 	 	                                      [Graduated: Jul.2026]
+Cairo University – Faculty of Computers and Artificial Intelligence 
+Technical Skills 
+-	Back-End: Java, Spring Boot, PHP, Laravel, Node.js, Express, C#, .Net MVC
+-	Databases: MySQL, PostgreSQL, MongoDB
+-	Front-End: HTML, CSS, JavaScript, Bootstrap
+-	Tools: Git, GitHub
+-	Testing: Robot Framework, Selenium, JUnit
+Experience 
+DEPI, Full Stack PHP Web Developer, Cairo, Internship 	 	 	 	                                           [Aug.2026]
+*	Completed a six-month internship at DEPI (Digital Egypt Builders Initiative) as full stack web developer 
+using C# and .Net MVC.
+*	Built web APIs, business logic, and MVC applications using C# and .NET Core, while working with 
+Microsoft SQL Server for relational database design and query writing. 
+NTI, Full stack .Net Web Developer, Online, Internship 	 	 	 	 	                              [Sep.2025]
+*	Completed an online one-month internship at NTI (National Communication Institute) as full stack web 
+developer using PHP and Laravel.
+*	Covered HTML5, CSS3, responsive design, JavaScript, database management, authentication, 
+authorization, session management, cookies, file handling, PHP security best practices, Laravel, and 
+MySQL.
+Nasr Petroleum Company, Suez, Internship 	 	 	 	 	 	                                [Jul.2023]
+*	Completed a one-month internship and gained exposure to multiple technology environments.
+*	Strengthened productivity and reporting skills using Microsoft Word and Excel. 
+
+Projects
+Siyah - C#/.Net with AI Integration                                                                                                         [Github]
+*	Worked on an AI-powered tourism platform that gamifies the travel experience.
+*	Implemented features such as AI monument recognition, smart navigation, interactive challenges, and a 
+global leaderboard.
+SafeWay - NodeJS/Express & Flutter                                                                                                      [Github]
+*	Built a community incident reporting app, where users report incidents whether they are online or offline.
+*	Implemented the offline report transmission using Flutter’s Nearby Connections package using Bluetooth.
+*	Created systems in the back-end that help the user acknowledge reports and get rewarded or penalized by 
+actions taken using the reputation system.
+Academix - PHP/Laravel 	 	 	 	 	 	 	 	 	                                   [Github]
+*	Built a role-based web application with authentication and course management.
+*	Developed student dashboards for course browsing, enrollment, and tracking.
+*	Implemented instructor features for course CRUD and enrollment management.
+Weather Forecast - NodeJS/Express 	 	 	 	 	 	 	 	     [Github, Website] 
+*	Built a location-based weather forecast web application.
+*	Converted user-entered locations into coordinates and retrieved forecast data via external APIs.
+*	Presented forecast results through a clean, user-friendly interface.
+Travel-Agency - Java/Springboot 	 	 	 	 	 	 	 	 	                      [Github] 
+*	Built a travel booking platform for worldwide event reservations.
+*	Added hotel recommendation logic based on nearby locations.
+*	Created a booking dashboard for managing reservations and recommendations.
+Courses 
+AI Career Essentials 	 	 	 	 	 	 	 	 	                              [Sep.2024] 
+*	A two-month introductory course on practical AI concepts and professional use cases.
+Business Model Innovation   	 	 	 	 	 	 	 	 	                [Dec.2023] 
+*	Participated in a three-month entrepreneurship course focused on teamwork and building a mobile 
+application for educational challenges.
+Languages 
+-	English: Full Professional Proficiency 
+-	Arabic: Native Language 
+
